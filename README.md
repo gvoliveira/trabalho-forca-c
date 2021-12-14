@@ -1,5 +1,5 @@
 # forca_C
-Trabalho aplicado para 1º período ADS. A descrição do trabalho está no arquivo PDF em anexo. O objetivo do trabalho é fixar os conteúdos:
+Trabalho para entrega. O objetivo do trabalho é fixar os conteúdos:
 - Condicionais
 - Laços de Repetição
 - Vetores e Strings
@@ -7,5 +7,6 @@ Trabalho aplicado para 1º período ADS. A descrição do trabalho está no arqu
 # O grupo deve:
 - Criar um fork do trabalho. 
 - Manter o arquivo atualizado no repositório pessoal.
+- Participar da apresentação durante a aula.
 
 
